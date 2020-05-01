@@ -27,7 +27,7 @@ metadata:
 
 ### Add Volumes
 
-![](images/add_volume.png)
+![](./images/add_volume.png)
 
 ### Add Workloads
 
